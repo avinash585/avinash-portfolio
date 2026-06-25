@@ -78,7 +78,7 @@ export const Hero = () => {
   focus: ["Full Stack", "ServiceNow", "Automation"],
   college: "RMD Engineering College",
   cgpa: 8.04,
-  mission: "Build portfolio projects that solve real problems",
+  mission: "Build intelligent software solutions that solve real-world problems and create meaningful impact",
 };
 
 buildPortfolio(avinash);`}</code>
