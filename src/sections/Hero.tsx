@@ -39,8 +39,14 @@ export const Hero = () => {
               Avinash A Portfolio
             </div>
             <h1 className="max-w-4xl text-2xl font-semibold leading-tight text-white sm:text-3xl lg:text-4xl">
-              Software Engineer in the making, specializing in Java, AI, and modern web development.
+              A Showcase of My
+              Technical Journey,
+              Projects, and Aspirations.
             </h1>
+            <div className="mt-7 h-12 font-mono text-2xl text-command-primary sm:text-3xl">
+              {display}
+              <span className="ml-1 inline-block h-7 w-2 translate-y-1 animate-pulse bg-command-primary" />
+            </div>
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
               <button onClick={() => scrollToSection('projects')} className="inline-flex h-12 items-center justify-center gap-2 rounded-md bg-command-primary px-5 font-semibold text-command-bg transition hover:bg-white">
                 View Projects <ArrowDown className="h-4 w-4" />

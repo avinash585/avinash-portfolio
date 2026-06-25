@@ -4,7 +4,7 @@ import { Section } from '../components/Section';
 import { profile } from '../data/portfolio';
 
 export const About = () => (
-  <Section id="about" eyebrow="Mission Brief" title="Engineering Useful, Scalable Systems" description={profile.summary}>
+  <Section id="about" eyebrow="Mission Brief" title="Career Snapshot" description={profile.summary}>
     <div className="grid gap-4 md:grid-cols-3">
       {[
         { label: 'CGPA', value: profile.cgpa, icon: TrendingUp },
