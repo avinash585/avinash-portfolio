@@ -36,17 +36,17 @@ export const Hero = () => {
           >
             <div className="mb-5 inline-flex items-center gap-2 rounded-md border border-command-primary/30 bg-command-primary/10 px-3 py-2 font-mono text-xs uppercase tracking-[0.22em] text-command-primary">
               <Rocket className="h-4 w-4" />
-              Developer Command Center
+              Avinash A Portfolio
             </div>
             <h1 className="max-w-4xl text-5xl font-semibold leading-tight text-white sm:text-6xl lg:text-7xl">
-              Building AI-powered software with precision.
+              Building a practical portfolio of software, automation, and meaningful experiences.
             </h1>
             <div className="mt-7 h-12 font-mono text-2xl text-command-primary sm:text-3xl">
               {display}
               <span className="ml-1 inline-block h-7 w-2 translate-y-1 animate-pulse bg-command-primary" />
             </div>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-300">
-              Computer Science and Engineering student focused on scalable applications, intelligent automation, and production-ready web experiences.
+              Computer Science and Engineering undergraduate at RMD Engineering College, creating real-world web applications, ServiceNow automations, and intelligent user experiences.
             </p>
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
               <button onClick={() => scrollToSection('projects')} className="inline-flex h-12 items-center justify-center gap-2 rounded-md bg-command-primary px-5 font-semibold text-command-bg transition hover:bg-white">
@@ -76,14 +76,13 @@ export const Hero = () => {
               <pre className="overflow-hidden font-mono text-sm leading-7 text-slate-300">
                 <code>{`const avinash = {
   role: "Software Engineer",
-  focus: ["AI", "Full Stack", "ServiceNow"],
+  focus: ["Full Stack", "ServiceNow", "Automation"],
+  college: "RMD Engineering College",
   cgpa: 8.04,
-  mission: "Ship useful systems",
+  mission: "Build portfolio projects that solve real problems",
 };
 
-deploy(avinash).then(() => {
-  optimizeFor("impact");
-});`}</code>
+buildPortfolio(avinash);`}</code>
               </pre>
             </div>
           </motion.div>

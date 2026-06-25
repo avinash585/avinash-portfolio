@@ -73,7 +73,7 @@ function App() {
       </main>
       <footer className="border-t border-white/10 px-5 py-8 text-center text-sm text-slate-400">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-4 sm:flex-row">
-          <p>Avinash A - Developer Command Center</p>
+          <p>Avinash A - Personal Portfolio</p>
           <div className="flex flex-wrap justify-center gap-3">
             {navItems.slice(2, 6).map((item) => (
               <button key={item.id} onClick={() => scrollToSection(item.id)} className="hover:text-command-primary">

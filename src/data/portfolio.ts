@@ -46,7 +46,7 @@ export const heroRoles = [
 
 export const profile = {
   summary:
-    'Motivated Computer Science undergraduate and aspiring Software Engineer focused on building scalable software solutions, AI-powered applications, and modern web technologies.',
+    'Computer Science and Engineering undergraduate at RMD Engineering College with hands-on experience in web development, ServiceNow automation, and software projects that solve real user problems.',
   cgpa: '8.04',
   college: 'RMD Engineering College',
   graduation: 'May 2027',
