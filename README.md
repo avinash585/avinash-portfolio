@@ -2,7 +2,7 @@
 
 A modern, interactive personal portfolio website built with React, TypeScript, Vite, and Tailwind CSS. Showcasing professional experience, projects, skills, and achievements with a sleek glass-morphism UI design.
 
-## ✨ Features
+##  Features
 
 - **Responsive Design** - Fully responsive and optimized for all device sizes
 - **Glass-Morphism UI** - Modern glass card components with smooth animations
@@ -23,7 +23,7 @@ A modern, interactive personal portfolio website built with React, TypeScript, V
 - **Performance Optimized** - Built with Vite for optimal performance
 - **Code Quality** - ESLint integration for consistent code style
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend Framework**: React 18+ with TypeScript
 - **Build Tool**: Vite
@@ -31,7 +31,7 @@ A modern, interactive personal portfolio website built with React, TypeScript, V
 - **Linting**: ESLint
 - **Package Manager**: npm/yarn
 
-## 📦 Installation
+##  Installation
 
 1. **Clone or extract the repository**
    ```bash
@@ -90,7 +90,7 @@ src/
 └── main.tsx          # Entry point
 ```
 
-## 🎨 Components
+##  Components
 
 ### Core Components
 
@@ -116,7 +116,7 @@ Each section is a self-contained component showcasing different aspects of the p
 - **ServiceNowJourney** - ServiceNow platform experience
 - **ContactTerminal** - Contact form with terminal UI
 
-## 🚀 Available Scripts
+##  Available Scripts
 
 | Command | Description |
 |---------|-------------|
@@ -125,7 +125,7 @@ Each section is a self-contained component showcasing different aspects of the p
 | `npm run preview` | Preview production build locally |
 | `npm run lint` | Run ESLint to check code quality |
 
-## 🎯 Configuration Files
+##  Configuration Files
 
 - **vite.config.ts** - Vite build configuration
 - **tsconfig.json** - TypeScript configuration
@@ -141,7 +141,7 @@ The portfolio is fully responsive with optimized layouts for:
 - Tablet (768px - 1439px)
 - Mobile (below 768px)
 
-## 🔧 Customization
+##  Customization
 
 ### Update Portfolio Data
 
