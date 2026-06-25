@@ -46,7 +46,7 @@ export const Hero = () => {
               <span className="ml-1 inline-block h-7 w-2 translate-y-1 animate-pulse bg-command-primary" />
             </div>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-300">
-              Computer Science and Engineering undergraduate at RMD Engineering College, creating real-world web applications, ServiceNow automations, and intelligent user experiences.
+              Software Engineer in the making, specializing in Java, AI, and modern web development.
             </p>
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
               <button onClick={() => scrollToSection('projects')} className="inline-flex h-12 items-center justify-center gap-2 rounded-md bg-command-primary px-5 font-semibold text-command-bg transition hover:bg-white">
