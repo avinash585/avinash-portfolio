@@ -129,8 +129,8 @@ export const serviceNowFlow = [
 
 export const contactLinks: ContactLink[] = [
   { label: 'Email', value: 'avinasha2137@gmail.com', href: 'mailto:avinasha2137@gmail.com' },
-  { label: 'LinkedIn', value: 'linkedin.com/in/avinash-a', href: 'https://www.linkedin.com/in/avinash-a' },
-  { label: 'GitHub', value: 'github.com/avinash-a', href: 'https://github.com/avinash-a' },
+  { label: 'LinkedIn', value: 'linkedin.com/in/avinash-a-363b882b0', href: 'https://www.linkedin.com/in/avinash-a-363b882b0/' },
+  { label: 'GitHub', value: 'github.com/avinash585', href: 'https://github.com/avinash585' },
 ];
 
 export const assistantKnowledge = [
