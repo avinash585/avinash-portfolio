@@ -39,9 +39,8 @@ export const Hero = () => {
               Avinash A Portfolio
             </div>
             <h1 className="max-w-4xl text-2xl font-semibold leading-tight text-white sm:text-3xl lg:text-4xl">
-              A Showcase of My
-              Technical Journey,
-              Projects, and Aspirations.
+              A Showcase of My<br />
+              Technical Journey, Projects, and Aspirations.
             </h1>
             <div className="mt-7 h-12 font-mono text-2xl text-command-primary sm:text-3xl">
               {display}
