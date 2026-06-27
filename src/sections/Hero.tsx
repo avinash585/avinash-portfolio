@@ -38,7 +38,7 @@ export const Hero = () => {
               <img
                 src="/avatar.jpg"
                 alt="Avinash"
-                className="h-20 w-20 rounded-full border-2 border-command-primary object-cover shadow-lg"
+                className="h-28 w-28 rounded-full border-2 border-command-primary object-cover shadow-2xl ring-4 ring-command-primary/20"
               />
             </div>
 
