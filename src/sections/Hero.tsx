@@ -34,6 +34,14 @@ export const Hero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, ease: 'easeOut' }}
           >
+            <div className="mb-4">
+              <img
+                src="/avatar.jpg"
+                alt="Avinash"
+                className="h-20 w-20 rounded-full border-2 border-command-primary object-cover shadow-lg"
+              />
+            </div>
+
             <div className="mb-5 inline-flex items-center gap-2 rounded-md border border-command-primary/30 bg-command-primary/10 px-3 py-2 font-mono text-xs uppercase tracking-[0.22em] text-command-primary">
               <Rocket className="h-4 w-4" />
               Avinash A Portfolio
